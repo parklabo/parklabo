@@ -10,7 +10,7 @@
   - **Backend**: Python 3.12, Django 4.2
   - **DevOps**:
     - AWS: ECS, ECR, RDS (MySQL), ElastiCache (Redis), SES, CodeBuild, CloudFront, S3,
-  Lambda, Step Functions, CloudWatch, Cognito
+  Lambda, Step Functions, CloudWatch, CloudFormation, Cognito
     - GitHub Actions, Docker
   - **Tools**: Sentry, Slack, Notion, Google App Script
 
@@ -18,6 +18,7 @@
   - **Frontend**: React, Next.js, TailwindCSS
   - **Backend**: Node.js, Express, Firebase Functions
   - **DevOps**:
+    - AWS: EC2, S3, CloudFront
     - Firebase: Hosting, Firestore, App Hosting, Storage, Auth
     - Supabase (PostgreSQL)
     - Cloudflare Pages
