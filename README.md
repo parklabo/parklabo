@@ -25,3 +25,8 @@
   - **Learning**:
     - Unity 6, Flutter, n8n,
     - AI Tools: Claude Code, Gemini CLI, Firebase Studio, Github Copilot
+
+  ### 📚 Previous Experience
+  - Backend: Java 11, Spring Boot 2.x
+  - Database: Oracle 12g, MsSQL Server
+  - Frontend: JSP, jQuery, Bootstrap
