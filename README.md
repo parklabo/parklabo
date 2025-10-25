@@ -7,7 +7,7 @@
 ## 🔧 Tech Stack
   ### 🏢 Current Work (@YoungsuPark)
   - **Frontend**: Angular 19, TypeScript, TailwindCSS
-  - **Backend**: Python 3.12, Django 4.2
+  - **Backend**: Python 3.12, 3.13, Django 4.2, 5.2
   - **DevOps**:
     - AWS: ECS, ECR, RDS (MySQL), ElastiCache (Redis), SES, CodeBuild, CloudFront, S3,
   Lambda, Step Functions, CloudWatch, CloudFormation, Cognito
@@ -30,3 +30,6 @@
   - Backend: Java 11, Spring Boot 2.x
   - Database: Oracle 12g, MsSQL Server
   - Frontend: JSP, jQuery, Bootstrap
+
+## 🧪 Side Projects (@parklabo)
+  - [care-kiro](https://care-kiro.com/)
