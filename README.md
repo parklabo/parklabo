@@ -15,7 +15,7 @@
   - **Tools**: Sentry, Slack, Notion, Google App Script, Firebase Studio
 
   ### 👤 Personal Projects (@parklabo)
-  - **Frontend**: React, Next.js, TailwindCSS
+  - **Frontend**: React 19.x, Next.js 15.x, TailwindCSS
   - **Backend**: Node.js, Express, Firebase Functions
   - **DevOps**:
     - AWS: EC2, S3, CloudFront
