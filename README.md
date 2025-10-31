@@ -9,7 +9,7 @@
   - **Frontend**: Angular 19, TypeScript, TailwindCSS
   - **Backend**: Python 3.12, 3.13, Django 4.2, 5.2
   - **DevOps**:
-    - AWS: ECS（Fargate）, ECR, RDS (MySQL), ElastiCache (Redis), SQS, CodeBuild, CloudFront, S3,
+    - AWS: ECS(Fargate), ECR, RDS(MySQL), ElastiCache(Redis), SQS, CodeBuild, CloudFront, S3,
   Lambda, Step Functions, CloudWatch, CloudFormation, Cognito
     - GitHub Actions, Docker
   - **Tools**: Sentry, Slack, Notion, Google App Script, Firebase Studio
