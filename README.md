@@ -6,7 +6,7 @@
 
 ## 🔧 Tech Stack
   ### 🏢 Current Work (@YoungsuPark)
-  - **Frontend**: Angular 19, TypeScript, TailwindCSS
+  - **Frontend**: Angular 19,20, TypeScript, TailwindCSS
   - **Backend**: Python 3.12, 3.13, Django 4.2, 5.2
   - **DevOps**:
     - AWS: ECS(Fargate), ECR, RDS(MySQL), ElastiCache(Redis), SQS, CodeBuild, CloudFront, S3,
